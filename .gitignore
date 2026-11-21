@@ -1,9 +1,4 @@
+output/
 __pycache__/
-*.py[cod]
-.verification/
-.local-output/
-.env
-.env.*
-transcripts*.tar.gz
-.makefun/credentials
-.makefun/keypairs/
+*.pyc
+entry.png
