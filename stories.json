@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cop31",
+    "region": "EUROPE / CLIMATE",
+    "geography": "Europe",
+    "key": "climate",
+    "title": "COP31 overtime",
+    "deck": "COP31 runs into Saturday after a draft omitted fossil fuels; no deal yet.",
+    "brief": "COP31 runs into Saturday after a draft omitted fossil fuels.",
+    "sources": "AFP / Al Jazeera",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.msn.com/en-us/news/world/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime/ar-AA2hTaYH",
+        "publication_date": "2026-11-20",
+        "supports": "COP31 went into Saturday with no deal after a draft omitted fossil fuels."
+      }
+    ],
+    "brief_source": "AFP"
+  },
+  {
+    "id": "saudi-missiles",
+    "region": "MIDEAST / WAR",
+    "geography": "Middle East",
+    "key": "port",
+    "title": "Five missiles downed",
+    "deck": "Saudi-led coalition says five Houthi missiles were downed over Riyadh and Jizan.",
+    "brief": "Coalition says five Houthi missiles were downed over Saudi Arabia.",
+    "sources": "AFP / Dawn",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-shoots-down-houthi-drones-and-missiles-3013163",
+        "publication_date": "2026-11-21",
+        "supports": "Coalition says it downed five Houthi missiles aimed at Saudi Arabia"
+      }
+    ],
+    "brief_source": "AFP"
+  },
+  {
+    "id": "peru-quake",
+    "region": "AMERICAS / QUAKE",
+    "geography": "Americas",
+    "key": "quake",
+    "title": "Peru 6.7 quake",
+    "deck": "A deep magnitude 6.7 quake was felt from Junín to Lima; no deaths reported.",
+    "brief": "A deep 6.7 quake shook central Peru; no deaths were reported.",
+    "sources": "USGS / IGP",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.riotimesonline.com/magnitude-6-7-earthquake-shakes-central-peru/",
+        "publication_date": "2026-11-20",
+        "supports": "A magnitude 6.7 earthquake cracked a hospital and cut power in central Peru."
+      }
+    ],
+    "brief_source": "USGS"
+  },
+  {
+    "id": "crimea-bridge",
+    "region": "EUROPE / WAR",
+    "geography": "Europe",
+    "key": "bridge",
+    "title": "Crimea bridge warning",
+    "deck": "Zelensky warns the Crimean Bridge will not stay and predicts more strikes.",
+    "brief": "Zelensky warns the Crimean Bridge will not stay.",
+    "sources": "NBC",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.msn.com/en-us/news/news/zelensky-says-putin-must-understand-crimean-bridge-will-not-stay-warns-russia-increasing-double-tap-strikes/ar-AA2hTqri",
+        "publication_date": "2026-11-20",
+        "supports": "Zelensky said the Crimean Bridge will not stay, warns of more double-tap strikes"
+      }
+    ],
+    "brief_source": "NBC"
+  },
+  {
+    "id": "iran-drone",
+    "region": "MIDEAST / WAR",
+    "geography": "Middle East",
+    "key": "drone",
+    "title": "Iran claims drone shot",
+    "deck": "Iran claims a US MQ-9 drone was downed over the Strait; Washington has not confirmed.",
+    "brief": "Iran claimed a US drone was downed over the Strait of Hormuz.",
+    "sources": "IRIB",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-houthi-saudi-tensions-strait-of-hormuz-latest-news/liveblog/136038144.cms",
+        "publication_date": "2026-11-21",
+        "supports": "Iran claimed it shot down a 58th US MQ-9 drone over the Strait of Hormuz"
+      }
+    ],
+    "brief_source": "IRIB"
+  },
+  {
+    "id": "iran-uranium",
+    "region": "MIDEAST / TALKS",
+    "geography": "Middle East",
+    "key": "diplomacy",
+    "title": "Uranium stays in Iran",
+    "deck": "Iran says its uranium stock stays inside the country while ministers seek a fair solution.",
+    "brief": "Iran says its uranium stock remains inside the country.",
+    "sources": "Tol",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://news.google.com/search?q=Iran%3A%20uranium%20stock%20stays%20in%20the%20country",
+        "publication_date": "2026-11-21",
+        "supports": "Iran said its uranium stock remains in the country"
+      }
+    ],
+    "brief_source": "Tol"
+  },
+  {
+    "id": "data-centre-tax",
+    "region": "AMERICAS / TECH",
+    "geography": "Americas",
+    "key": "energy",
+    "title": "Data-centre tax threat",
+    "deck": "Trump threatens a tax on US firms that build data centres abroad; details are pending.",
+    "brief": "Trump threatened a tax on US firms building data centres overseas.",
+    "sources": "ABC / The Hindu",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.thehindu.com/sci-tech/technology/trump-vows-to-punish-us-firms-building-data-centres-abroad/article71727296.ece",
+        "publication_date": "2026-11-20",
+        "supports": "Trump threatened a tax on U.S. companies that build data centres overseas"
+      }
+    ],
+    "brief_source": "ABC"
+  },
+  {
+    "id": "china-japan",
+    "region": "ASIA / TALKS",
+    "geography": "Asia",
+    "key": "diplomacy",
+    "title": "China presses Japan",
+    "deck": "Beijing tells Tokyo to correct its Taiwan remarks; Japan says its stance is unchanged.",
+    "brief": "Beijing told Tokyo to correct its Taiwan remarks.",
+    "sources": "AFP",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://econotimes.com/China-Presses-Japan-to-Correct-Taiwan-Remarks-Citing-1972-Statement-1780125",
+        "publication_date": "2026-11-20",
+        "supports": "Beijing told Tokyo to correct its Taiwan statements, citing the 1972 joint statement"
+      }
+    ],
+    "brief_source": "AFP"
+  },
+  {
+    "id": "air-niugini",
+    "region": "ASIA / AVIATION",
+    "geography": "Asia",
+    "key": "aviation",
+    "title": "Jet diverts, lands safe",
+    "deck": "An Air Niugini 767 diverted after an engine-fire alert and landed safely in Davao.",
+    "brief": "An Air Niugini 767 diverted after an alert and landed safely.",
+    "sources": "AP",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://news.google.com/search?q=Jet%20lands%20safely%20after%20engine%20fire%20alert",
+        "publication_date": "2026-11-21",
+        "supports": "Air Niugini 767 diverts after midnight and lands safely."
+      }
+    ],
+    "brief_source": "AP"
+  },
+  {
+    "id": "australia-china-ai",
+    "region": "OCEANIA / TALKS",
+    "geography": "Oceania",
+    "key": "diplomacy",
+    "title": "Australia–China AI talks",
+    "deck": "Australia and China agree to AI talks as Albanese ends an 11-day trip.",
+    "brief": "Australia and China agreed to talks on artificial intelligence.",
+    "sources": "ABC",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.msn.com/en-au/news/other/australia-and-china-agree-to-ai-talks-as-albanese-wraps-up-international-trip/ar-AA2hS48s",
+        "publication_date": "2026-11-20",
+        "supports": "Albanese secures China AI talks as 11-day trip ends."
+      }
+    ],
+    "brief_source": "ABC"
+  },
+  {
+    "id": "bitcoin",
+    "region": "WORLD / MARKETS",
+    "geography": "World",
+    "key": "markets",
+    "title": "Bitcoin below $59k",
+    "deck": "Bitcoin fell below $59,000, down 3.9% in 24 hours; ether traded near $1,625.",
+    "brief": "Bitcoin fell below $59,000, down 3.9% in 24 hours.",
+    "sources": "CoinGecko / Yahoo Finance",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.msn.com/en-us/news/other/bitcoin-plunges-below-59-000-on-pace-for-its-worst-month-since-june-2022/ar-AA2hSN17",
+        "publication_date": "2026-11-20",
+        "supports": "Bitcoin fell below $59,000, down 3.9% in 24 hours."
+      }
+    ],
+    "brief_source": "CoinGecko"
+  },
+  {
+    "id": "russell",
+    "region": "AMERICAS / F1",
+    "geography": "Americas",
+    "key": "sport",
+    "title": "Russell leads Vegas practice",
+    "deck": "George Russell set the fastest time, 1:34.041, in damp Las Vegas practice.",
+    "brief": "George Russell led final practice in Las Vegas.",
+    "sources": "Formula 1 / BBC",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.bbc.com/sport/formula1/live/cdj7dy87rmkt?page=3",
+        "publication_date": "2026-11-20",
+        "supports": "George Russell set the fastest time in final Las Vegas practice, 1:34.041."
+      }
+    ],
+    "brief_source": "Formula 1"
+  },
+  {
+    "id": "rahul",
+    "region": "OCEANIA / CRICKET",
+    "geography": "Oceania",
+    "key": "sport",
+    "title": "Rahul reaches century",
+    "deck": "KL Rahul reached a century as India trailed New Zealand by 24 runs in Wellington.",
+    "brief": "KL Rahul reached a century against New Zealand.",
+    "sources": "AFP",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.msn.com/en-in/news/other/kl-rahul-hits-century-as-india-trail-new-zealand-by-24-runs-in-test/ar-AA2hTV8P",
+        "publication_date": "2026-11-20",
+        "supports": "KL Rahul reaches a century; India are 24 runs behind New Zealand."
+      }
+    ],
+    "brief_source": "AFP"
+  },
+  {
+    "id": "cop31-risk",
+    "region": "EUROPE / CLIMATE",
+    "geography": "Europe",
+    "key": "climate",
+    "title": "COP31 risks failure",
+    "deck": "EU officials warn the draft’s dropped fossil-fuel pledge risks a total failure.",
+    "brief": "EU officials warned the COP31 draft risks total failure.",
+    "sources": "AP / EU Today",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://eutoday.net/cop31-eu-fossil-fuels-climate-finance-deadlock/",
+        "publication_date": "2026-11-20",
+        "supports": "EU warns COP31 draft dropped fossil fuel transition pledge, risking failure"
+      }
+    ],
+    "brief_source": "AP"
+  },
+  {
+    "id": "roundup",
+    "region": "AMERICAS / COURTS",
+    "geography": "Americas",
+    "key": "science",
+    "title": "Roundup deal approved",
+    "deck": "A Missouri judge approved a $7.25bn Roundup settlement; Bayer denies causation.",
+    "brief": "A Missouri judge approved a $7.25bn Roundup settlement.",
+    "sources": "AFP / USA TODAY",
+    "event_date": "2026-11-21",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.usatoday.com/story/news/nation/2026/11/20/missouri-judge-approves-bayer-roundup-settlement/92890432007/",
+        "publication_date": "2026-11-20",
+        "supports": "A Missouri judge approved a $7.25bn Roundup settlement."
+      }
+    ],
+    "brief_source": "AFP"
+  }
+]

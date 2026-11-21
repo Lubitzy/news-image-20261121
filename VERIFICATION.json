@@ -1,0 +1,30 @@
+{
+  "status": "pass",
+  "python_version": "3.14.9",
+  "entrypoint_stdlib_imports": [
+    "argparse",
+    "pathlib",
+    "shutil"
+  ],
+  "isolation_flags": [
+    "-I",
+    "-S"
+  ],
+  "socket_operations_denied": true,
+  "independent_runs": 2,
+  "runs_byte_identical": true,
+  "output_matches_source_asset": true,
+  "sha256": "b21d77d3b042f2f975ca7f2aee9e0bd20499e9e356827a7ccd1ab85b48583538",
+  "png": {
+    "format": "PNG",
+    "width": 1024,
+    "height": 1024,
+    "bytes": 391055,
+    "bit_depth": 8,
+    "color_type": "RGB",
+    "all_chunk_crcs_valid": true,
+    "image_stream_complete": true,
+    "scanline_filters_valid": true,
+    "chunk_count": 8
+  }
+}
